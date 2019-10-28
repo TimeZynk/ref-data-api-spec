@@ -1,6 +1,6 @@
 {
   "name": "ref-data-api-spec",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "swagger-repo": "^2.0.0-rc.11"
   },
