@@ -1,0 +1,8 @@
+specFileName: ~/spec/file/na.me
+apiTitle: Ref data api spec
+splitSpec: false
+codeSamples: true
+swaggerUI: true
+travis: true
+repo: TimeZynk/ref-data-api-spec
+oasVersion: 3.0.0
